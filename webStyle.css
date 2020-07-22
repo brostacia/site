@@ -1,0 +1,205 @@
+body {
+  margin: 0 auto;
+  width: 1219px;
+  background-image: url(https://hdimage.ru/uploads/images/priroda/05CQKOmatte.jpg);
+  background-size: cover;
+  background-position: center;
+
+}
+
+.header {
+  background: #007765;
+  height: 84px;
+  position: fixed;
+  display: flex;
+  width: 1219px;
+}
+
+.logo {
+  width: 184px;
+  height: 45px;
+  padding: 20px 502px 19px 55px;
+  
+}
+
+ul {
+  display: flex;
+}
+
+li {
+  display: inline-flex;
+}
+
+li a {
+  text-decoration: none;
+  color: #ffffff;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 28px;
+  margin: 8px;
+}
+
+.black-image {
+  background-image: url(PiedPiper/here.png);
+  height: 403px;
+}
+
+.overlay {
+  display: flex;
+  width: 100%;
+  height: 100%;
+}
+
+.white-text {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 72px;
+  color: #ffffff;
+  margin: auto;
+}
+
+.beige-problem {
+  background: #eeeeee;
+  height: 719px;
+}
+
+.green-title {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 64px;
+  line-height: 75px;
+  text-align: center;
+  color: #007765;
+  padding: 48px 57px 16px 55px;
+  margin: 0;
+}
+
+.text {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 32px;
+  line-height: 37px;
+  color: #000000;
+  padding: 0px 54px 0 55px;
+  margin: 0;
+}
+
+.blue-image {
+  background-image: url(PiedPiper/blue.png);
+  height: 483px;
+}
+
+.white-intro {
+  height: 604px;
+  background: #ffffff;
+}
+
+.logo-text {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 32px;
+  line-height: 37px;
+  color: #000000;
+  padding: 0 71px 40px 0;
+  margin: 0;
+}
+
+.logo-display {
+  display: inline-flex;
+  margin: 0;
+}
+
+.green-logo {
+  width: 115px;
+  height: 115px;
+  padding: 0 48px 35px 55px;
+  margin: 0;
+}
+
+.text-under-logo {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 32px;
+  line-height: 37px;
+  color: #000000;
+  padding: 0 54px 90px 55px;
+  margin: 0;
+}
+
+.team-section {
+  height: 845px;
+  background-color: #eeeeee;
+}
+
+.all-cards {
+  height: 722px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.card {
+  width: 350px;
+  height: 283px;
+  text-align: center;
+  margin: 0;
+  flex-basis: 30%;
+}
+
+.card-image {
+  padding-top: 20px;
+}
+
+.card-name {
+  padding-top: 12px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 28px;
+  color: #007765;
+  padding-top: 12px;
+  margin: 0;
+}
+
+.card-prof {
+  font-family: Roboto;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 21px;
+  color: #000000;
+  margin: 0;
+}
+
+.footer {
+  height: 176px;
+  background-color: #333333;
+  display: flex;
+}
+
+.OverFooter {
+  display: flex;
+  width: 100%;
+  height: 100%;
+}
+
+.textOverFooter {
+  width: 540px;
+  height: 64px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 21px;
+  color: #ffffff;
+  margin: auto;
+  text-align: center;
+}
